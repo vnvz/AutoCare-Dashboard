@@ -32,6 +32,7 @@ bar_departamento = px.bar(x=contagem_departamento.index, y=contagem_departamento
 
 # Dashboard
 app = Dash(__name__, suppress_callback_exceptions=True)
+server = app.server
 
 app.layout = html.Div(className='main-container', children=[
     html.H1('Statistics'),
