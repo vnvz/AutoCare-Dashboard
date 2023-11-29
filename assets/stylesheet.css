@@ -1,0 +1,16 @@
+.main-container {
+    display: flex;
+    flex-direction: column;
+    background-color: #FFFFFF;
+    padding: 50px;
+}
+
+.hist_container,
+.small-container,
+.pie-container,
+.bar-container,
+.scatter-container {
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+}
