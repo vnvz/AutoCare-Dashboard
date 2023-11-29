@@ -1,4 +1,4 @@
-# LELLO Dashboard
+# AutoCare Dashboard
 
 Este é um projeto de exemplo de um Dashboard para a SAFECARE, utilizando a biblioteca Dash em Python. O Dash é um framework de desenvolvimento web em Python que permite criar interfaces interativas com visualizações de dados.
 
